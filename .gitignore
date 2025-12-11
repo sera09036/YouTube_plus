@@ -7,3 +7,4 @@ youtube+win64.zip
 *.spec
 dev/
 .DS_Store
+bin/

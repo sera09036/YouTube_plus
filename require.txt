@@ -5,3 +5,6 @@ pyinstaller
 pyinstaller-hooks-contrib
 pywin32-ctypes
 yt_dlp
+certifi
+yt-dlp-ejs
+pyinstaller-versionfile
