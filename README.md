@@ -65,5 +65,5 @@ YYouTube+は yt-dlpに依存する為、下記の動作環境を推奨致しま�
 ### 3. 開発環境構築
 パッケージのインストールは .venv等の仮想環境で行うことを推奨いたします。
 またpython環境仮想化ツールとしてこのプロジェクトでは　uv を用いてます。
-uvの導入方法はこちらからご確認ください。
+[uvの導入方法](https://docs.astral.sh/uv/getting-started/installation/)はこちらからご確認ください。
 
